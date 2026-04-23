@@ -1,10 +1,10 @@
-🌸 Iris Flower Prediction
+# 🌸 Iris Flower Prediction
 
 A sleek and beginner-friendly Machine Learning project that predicts the species of an iris flower based on its physical features. This project demonstrates the full ML workflow — from data exploration to model training and evaluation.
 
 ---
 
-🚀 Overview
+# 🚀 Overview
 
 The Iris Flower Prediction project uses a classic dataset to classify iris flowers into three species:
 
@@ -21,7 +21,7 @@ The prediction is based on four key features:
 
 ---
 
-🧠 Machine Learning Approach
+# 🧠 Machine Learning Approach
 
 This project applies supervised learning classification algorithms to build an accurate predictive model. Typical steps include:
 
@@ -33,7 +33,7 @@ This project applies supervised learning classification algorithms to build an a
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Python 🐍
 - NumPy & Pandas – Data manipulation
@@ -56,7 +56,7 @@ The dataset used is the famous Iris Dataset, which is:
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/iris-flower-prediction.git
+git clone https://github.com/himanshuX64/iris-flower-prediction.git
 cd iris-flower-prediction
 pip install -r requirements.txt
 
