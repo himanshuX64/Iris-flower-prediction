@@ -42,7 +42,7 @@ This project applies supervised learning classification algorithms to build an a
 
 ---
 
-📊 Dataset
+# pp📊 Dataset
 
 The dataset used is the famous Iris Dataset, which is:
 
@@ -52,7 +52,7 @@ The dataset used is the famous Iris Dataset, which is:
 
 ---
 
-⚙️ Installation
+# ⚙️ Installation
 
 Clone the repository and install dependencies:
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ---
 
-▶️ Usage
+# ▶️ Usage
 
 Run the main script:
 
@@ -74,18 +74,15 @@ jupyter notebook
 
 ---
 
-📈 Model Performance
+# 📈 Model Performance
 
 The model typically achieves high accuracy due to the simplicity and quality of the dataset. You can experiment with:
 
-- Logistic Regression
-- Decision Tree
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+- RandomforestClassifier
 
 ---
 
-🔍 Example Prediction
+# 🔍 Example Prediction
 
 Input:
 
@@ -98,41 +95,3 @@ Output:
 
 Predicted Species: Setosa 🌸
 
----
-
-🎯 Features
-
-- Clean and simple code structure
-- Beginner-friendly implementation
-- Easy to extend with new models
-- Visualization support
-
----
-
-🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- Fork the repo
-- Create a new branch
-- Submit a pull request
-
----
-
-📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-💡 Inspiration
-
-A classic starting point for anyone entering the world of Machine Learning. Simple, elegant, and powerful.
-
----
-
-⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
-
----
