@@ -42,7 +42,7 @@ This project applies supervised learning classification algorithms to build an a
 
 ---
 
-# pp📊 Dataset
+# Dataset
 
 The dataset used is the famous Iris Dataset, which is:
 
@@ -56,9 +56,9 @@ The dataset used is the famous Iris Dataset, which is:
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/himanshuX64/iris-flower-prediction.git
-cd iris-flower-prediction
-pip install -r requirements.txt
+- git clone https://github.com/himanshux64/iris-flower-prediction.git
+- cd iris-flower-prediction
+- pip install -r requirements.txt
 
 ---
 
@@ -66,11 +66,9 @@ pip install -r requirements.txt
 
 Run the main script:
 
-python main.py
+- python main.py
 
-Or open the Jupyter Notebook:
 
-jupyter notebook
 
 ---
 
